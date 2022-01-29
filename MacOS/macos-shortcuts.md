@@ -1,11 +1,11 @@
 ## MacOS related commands:-
 
-* command + control(ctrl) + F  ==> [Resize window]
-* control + command + Q  ==> [Screen lock]
-* command + Q  ==> [Full quit a window]
-* command + space  ==> [Spotlight search globally]
-* command + shift + 4 ==> [Screen Shot by selecting an area]
-* command + control + F ==> [Full screen / resize screen for a window]
+* `command + control(ctrl) + F`  ==> [Resize window]
+* `control + command + Q`  ==> [Screen lock]
+* `command + Q`  ==> [Full quit a window]
+* `command + space`  ==> [Spotlight search globally]
+* `command + shift + 4` ==> [Screen Shot by selecting an area]
+* `command + control + F` ==> [Full screen / resize screen for a window]
 
 
 ## Homebrew related commands:-
