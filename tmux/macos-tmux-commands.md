@@ -12,3 +12,6 @@
 without holding key again press the new keys/commands:-
 
 * `c` ==> [for creating a new window]
+
+
+#### `Reference:` https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
