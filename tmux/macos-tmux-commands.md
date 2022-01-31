@@ -1,10 +1,10 @@
 *** At first, we have to run the tmux session where the command is - `tmux`
 
 ### Some ==terminologies==:-
-    `** Prefix
+ ```** Prefix
     ** Session
     ** Window
-    ** Pane`
+    ** Pane```
 
     - create new session
     - attach a session
