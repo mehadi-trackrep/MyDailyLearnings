@@ -1,9 +1,14 @@
 *** At first, we have to run the tmux session where the command is - `tmux`
 
-### Some keywords:-
-- create new session
-- attach a session
-- detach from a session
+### Some ==terminologies==:-
+    `** Prefix
+    ** Session
+    ** Window
+    ** Pane`
+
+    - create new session
+    - attach a session
+    - detach from a session
 
 
 ### The tmux `prefix` is `control + B`
