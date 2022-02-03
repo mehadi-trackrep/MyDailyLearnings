@@ -1,4 +1,4 @@
-### Some basic commands:-
+### Some basic commands (here, `ssh` means `secure shell`):-
 
 * `ls`
 * `ls -la`
@@ -21,5 +21,5 @@
 * `du`
 * d
 
-### Regarding connection with Remote VPS / Server:-
+### Regarding connection with Remote VPS / Server (here, `ssh` means `secure socket shell`):-
 
