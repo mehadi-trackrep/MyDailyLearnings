@@ -28,4 +28,6 @@ without holding key again press the new keys/commands:-
 ** `htop` ==> [to know about the CPU and memory usage]
 
 
-#### `Reference:` https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
+#### `Reference:` 
+* https://linuxize.com/post/getting-started-with-tmux/
+* https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
